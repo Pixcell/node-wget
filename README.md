@@ -1,6 +1,7 @@
 # node-wget
 
 A download tool, now supporting http/https resource and http/https proxy, written in nodejs.
+Forked from https://github.com/wuchengwei/node-wget - Only one change : when a file is downloaded, if a file with the same name already existed, it will be overwritten and not appened.
 
 # Installing
 ```
