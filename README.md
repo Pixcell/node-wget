@@ -5,7 +5,7 @@ Forked from https://github.com/wuchengwei/node-wget - Only one change : when a f
 
 # Installing
 ```
-npm install git+https://github.com/Pixcell/node-wget
+npm install git+https://github.com/Pixcell/node-wget.git
 ```
 
 # Usage
